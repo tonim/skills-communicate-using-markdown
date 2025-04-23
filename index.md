@@ -2,4 +2,11 @@
 
 This is a regular contetent
 
+## Add a code block
+``` javascript
+let msg = "Hello world!";
+console.log(msg);
+```
+
+## Add an image
 ![Dices](https://cdn.pixabay.com/photo/2016/07/07/16/46/dice-1502706_1280.jpg)
